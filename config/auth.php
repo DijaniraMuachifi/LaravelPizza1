@@ -4,7 +4,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Authen
+    | Authe
     |--------------------------------------------------------------------------
     |
     | This option controls the default authentication "guard" and password
