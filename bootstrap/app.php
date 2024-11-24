@@ -2,7 +2,7 @@
 
 /*
 |--------------------------------------------------------------------------
-| Create The Ap
+| Create The 
 |--------------------------------------------------------------------------
 |
 | The first thing we will do is create a new Laravel application instance
