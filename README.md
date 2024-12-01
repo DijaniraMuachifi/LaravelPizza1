@@ -11,7 +11,7 @@ The system is responsive and adheres to dynamic design principles. It includes:
 - CRUD for pizzas and categories
 - Shopping cart functionality, and more.
 
-The project is hosted and can be accessed at: **[Pizza Project Hosting](https://laraveldijaniraalfred.rf.gd/)**
+The project is hosted and can be accessed at: **http://laraveldijaniraalfred.rf.gd/public/?i=1**
 
 ---
 
